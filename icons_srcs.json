@@ -1,0 +1,72 @@
+[
+    {
+        "name": "font_awesome",
+        "needs_optimization": false,
+        "is_recursive": true,
+        "image": "https://avatars.githubusercontent.com/u/1505683?s=200&v=4",
+        "subfolder_link": "https://github.com/FortAwesome/Font-Awesome/tree/master/svgs"
+    },
+    {
+        "name": "feather_icons",
+        "needs_optimization": false,
+        "is_recursive": false,
+        "image": "https://avatars.githubusercontent.com/u/29268069?s=200&v=4",
+        "subfolder_link": "https://github.com/feathericons/feather/tree/master/icons"
+    },
+    {
+        "name": "nerd_icons",
+        "needs_optimization": false,
+        "is_recursive": false,
+        "image": "https://github.com/ryanoasis/nerd-fonts/raw/master/images/nerd-fonts-logo.svg",
+        "subfolder_link": "https://github.com/ryanoasis/nerd-fonts/tree/master/src/svgs"
+    },
+    {
+        "name": "ionic_icons",
+        "needs_optimization": false,
+        "is_recursive": false,
+        "image": "https://avatars.githubusercontent.com/u/3171503?s=200&v=4",
+        "subfolder_link": "https://github.com/ionic-team/ionicons/tree/master/src/svg"
+    },
+    {
+        "name": "hero_icons",
+        "needs_optimization": false,
+        "is_recursive": true,
+        "image": "https://avatars.githubusercontent.com/u/67109815?s=200&v=4",
+        "subfolder_link": "https://github.com/tailwindlabs/heroicons/tree/master/src"
+    },
+    {
+        "name": "tabler_icons",
+        "needs_optimization": false,
+        "is_recursive": false,
+        "image": "https://avatars.githubusercontent.com/u/29872746?s=200&v=4",
+        "subfolder_link": "https://github.com/tabler/tabler-icons/tree/master/icons"
+    },
+    {
+        "name": "material_icons",
+        "needs_optimization": false,
+        "is_recursive": false,
+        "image": "https://avatars.githubusercontent.com/u/29872746?s=200&v=4",
+        "subfolder_link": "https://github.com/Templarian/MaterialDesign-SVG/tree/master/svg"
+    },
+    {
+        "name": "eva_icons",
+        "needs_optimization": false,
+        "is_recursive": true,
+        "image": "https://avatars.githubusercontent.com/u/11921694?s=200&v=4",
+        "subfolder_link": "https://github.com/akveo/eva-icons/tree/master/package/icons"
+    },
+    {
+        "name": "oct_icons",
+        "needs_optimization": false,
+        "is_recursive": false,
+        "image": "https://avatars.githubusercontent.com/u/7143434?s=200&v=4",
+        "subfolder_link": "https://github.com/primer/octicons/tree/main/icons"
+    },
+    {
+        "name": "css_gg_icons",
+        "needs_optimization": false,
+        "is_recursive": false,
+        "image": "https://avatars.githubusercontent.com/u/7143434?s=200&v=4",
+        "subfolder_link": "https://github.com/astrit/css.gg/tree/master/icons/svg"
+    }
+]

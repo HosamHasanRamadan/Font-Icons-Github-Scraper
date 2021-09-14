@@ -1,0 +1,12 @@
+export 'add_to_global_json_file.dart';
+export 'clean_up.dart';
+export 'constants.dart';
+export 'create_global_json_file.dart';
+export 'create_icons_font.dart';
+export 'create_icons_font_file.dart';
+export 'download_svg_icons.dart';
+export 'flatten_subfolders.dart';
+export 'list_all_svg_files.dart';
+export 'optimize_svg_icons.dart';
+export 'prepare_all_folders.dart';
+export 'prepare_working_icons_info.dart';
